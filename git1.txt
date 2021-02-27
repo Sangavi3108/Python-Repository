@@ -140,9 +140,25 @@ remote:
 To https://github.com/Sangavi3108/Python-Repository.git
  * [new branch]      master -> master
 
-sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
-$ ^C
-
 
 sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
-$
+$ git pull -f origin master
+From https://github.com/Sangavi3108/Python-Repository
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git pull -f origin master
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 698 bytes | 4.00 KiB/s, done.
+From https://github.com/Sangavi3108/Python-Repository
+ * branch            master     -> FETCH_HEAD
+   459ff88..6cb8a78  master     -> origin/master
+Updating 459ff88..6cb8a78
+Fast-forward
+ git1.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
