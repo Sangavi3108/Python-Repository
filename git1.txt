@@ -1,1 +1,148 @@
-sample
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
+$ git config --global user.name 'sangavi D'
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
+$ git config --global user.email 'sangaveey@gmail.com'
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
+$ git config --global core.autocrlf true
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
+$ pwd
+/c/Users/sangavi.damodaran/Desktop/python
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
+$ ls
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
+$ ls -al
+total 16
+drwxr-xr-x 1 sangavi.damodaran 1049089 0 Feb 27 09:35 ./
+drwxr-xr-x 1 sangavi.damodaran 1049089 0 Feb 27 09:35 ../
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
+$ git init
+Initialized empty Git repository in C:/Users/sangavi.damodaran/Desktop/python/.git/
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ ls -al
+total 20
+drwxr-xr-x 1 sangavi.damodaran 1049089 0 Feb 27 10:13 ./
+drwxr-xr-x 1 sangavi.damodaran 1049089 0 Feb 27 09:35 ../
+drwxr-xr-x 1 sangavi.damodaran 1049089 0 Feb 27 10:13 .git/
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ touch git.txt
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ vim git.txt
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ echo "sample" >> git1.txt
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ ls
+git.txt  git1.txt
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ echo "sample" >git1.txt
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        git.txt
+        git1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git add .
+warning: LF will be replaced by CRLF in git.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in git1.txt.
+The file will have its original line endings in your working directory
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git commit
+Aborting commit due to empty commit message.
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git commit -m 'First Commit'
+[master (root-commit) 3e0e1bf] First Commit
+ 2 files changed, 29 insertions(+)
+ create mode 100644 git.txt
+ create mode 100644 git1.txt
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git push -f origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git remote -v
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git remote add origin https://github.com/Sangavi3108/Python-Repository.git
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git remote -v
+origin  https://github.com/Sangavi3108/Python-Repository.git (fetch)
+origin  https://github.com/Sangavi3108/Python-Repository.git (push)
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git push -f origin master
+
+
+
+
+fatal: helper error (-1073741510): Unknown
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ git push -f origin master
+warning: ----------------- SECURITY WARNING ----------------
+warning: | TLS certificate verification has been disabled! |
+warning: ---------------------------------------------------
+warning: HTTPS connections may not be secure. See https://aka.ms/gcmcore-tlsverify for more information.
+warning: ----------------- SECURITY WARNING ----------------
+warning: | TLS certificate verification has been disabled! |
+warning: ---------------------------------------------------
+warning: HTTPS connections may not be secure. See https://aka.ms/gcmcore-tlsverify for more information.
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 889 bytes | 444.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/Sangavi3108/Python-Repository/pull/new/master
+remote:
+To https://github.com/Sangavi3108/Python-Repository.git
+ * [new branch]      master -> master
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$ ^C
+
+
+sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python (master)
+$
