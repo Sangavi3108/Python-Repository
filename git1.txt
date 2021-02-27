@@ -1,5 +1,5 @@
 sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
-$ git config --global user.name 'sangavi D'
+$ git config --global user.name 'sangaviD'
 
 sangavi.damodaran@VTIPL-C-PC663-L MINGW64 ~/Desktop/python
 $ git config --global user.email 'sangaveey@gmail.com'
