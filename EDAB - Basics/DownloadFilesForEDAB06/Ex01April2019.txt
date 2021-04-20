@@ -1,0 +1,195 @@
+Type of Company	Employment Plan Over Next 12 Months
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	No Change
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Add Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Private	Lay Off Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	Add Employees
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	No Change
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
+Public	Lay Off Employees
